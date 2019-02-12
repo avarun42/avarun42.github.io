@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/varunarora
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://varun.codes
+  * I am varunarora (https://keybase.io/varunarora) on keybase.
+  * I have a public key with fingerprint 7184 88B4 77DB 5C77 9BF2  C860 5303 3F94 F582 6E2C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013463d3100e5724c19770417c8a089a3e61d25079471305c46515554cf6074c7c0a",
+      "fingerprint": "718488b477db5c779bf2c86053033f94f5826e2c",
+      "host": "keybase.io",
+      "key_id": "53033f94f5826e2c",
+      "kid": "01013463d3100e5724c19770417c8a089a3e61d25079471305c46515554cf6074c7c0a",
+      "uid": "2bc9852a442f6b4fb45dbd934263ff19",
+      "username": "varunarora"
+    },
+    "service": {
+      "hostname": "varun.codes",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1549947939,
+  "expire_in": 157680000,
+  "prev": "e28675241b430b881cbf274a3cdd6fd4a4ac5504dad5cfd5fe7f0653060bb8fd",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBVBGD5qZiqVCoGICq4UYmKzuzM7uwdfiowUIqGgEuuwOzurm7p7
+3D3HS2YPXbBSim5iPUh0IS9E5oMgRGhUWr5E5pFQBJ9KDRFDUhRqVgp66LF5Geaf
+7/v+7//4X2+N8SVE9TwqXe688QJHjQ61h31l2tHsRk6z9QbO38hV0o2LVunUDQUq
+TZ3zc4AHvAglURd5ACjCAiS8gjGAPCayCmRFFanE6wICWIGYFwEiUEI8QggSQwIY
+EkyAyuVxhmmVUyfomFaIyWJehrKsQYx1DRGMFc0QiCwBJAJRNBRoIFmQqEAYscJ2
+PQYzp6kuzTdtVmOPwIa9f+D/s+/whpygEUVGggqhYEgaNDSIdE1XRChIomHwigd0
+qWOp1ZSha1UnbKmO7ahcUx7H6rUmoV603ix/Y/KJzbJm5KBjh2xiV7GPilAo6Po9
+Yqgh6CHrqBb4rRHQTEtnQTJGLXVc07Y4P8+QJGR6ojyCCptGEZU8jtYHTYcGTA+B
+sCQDdrw+tJZJUkGWMBIgr0ERaLLME5Y/hqpIdF0ydKhClSAEoK7qiBg6Mig2gMTC
+loCmyYbOeVPVWDbnx8ymWs4kXbPcUkNhh3JNrwbLNvmiEnybY6O9BfMlxCf9WbuO
+3i2+8UhHZvXCkbWaW1lJQt+ZlUMjd2djavrSs5Sksbc585F0Ze+s/2ZGRu94/M/S
+wMvWe/7ukaaBB0X1wmL/27nUwQxr13t3xGkV166VDO3c8WGmM/ZHcXLc++bI1ZnM
+ntQTQnrJHB496z/Qt2e2sG61dLji1r3gZOblU8vPr9dkt8cMNuNnvi/7nqyufFu6
+k+vGtYy+iT/cv77//Mfu25HCKwfR9qKifqOgI21icnrge8PJcysTVdsm49ZaihqP
+TxWnTI0tRy7d/9SUXL+UmCZ1z6xfXMipf1pRVZAbnu763LWY864x8fHK0uqH4Qtt
+bcMPch52vjl8LGX36WjwFW+fz2xr+QV1rUMz
+=SB79
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/varunarora
+
+==================================================================
+
