@@ -1,3 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
 https://varunarora.netlify.com/* https://varun.codes/:splat 301!
 
+/resume.pdf /Varun-Arora-resume.pdf 301
